@@ -1,7 +1,6 @@
 import 'dart:math';
 
 class DifferenceOfSquares {
-
   int squareOfSum(int input) {
     int sum = 0;
     for (int i = 1; i <= input; i++) {
